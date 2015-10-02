@@ -1,0 +1,14 @@
+# Site settings
+title: jp's blog
+email: thejenny03@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I'm setting up this blog to get practice with github pages and to document
+  my experiences. Will mostly be talking food and learning to code.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jenny_pollack
+github_username:  jenpoll
+
+# Build settings
+markdown: kramdown
+permalink: /:title
