@@ -1,10 +1,8 @@
 ---
-layout: post
-title:  "Chorizo Hash"
+title:  "Chorizo-Hash"
 date:   2015-10-02 10:08:34
 categories: serious-eats 
-author: Jenny Pollack
-permalink: Chorizo Hash
+permalink: Chorizo-Hash
 image: chorizohash.jpg
 ---
 
